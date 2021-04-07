@@ -43,7 +43,6 @@ class ViewModel: ObservableObject{
             
         }.resume()
         
-        
     }
 }
 
